@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-<a href="www.baidu.com"> baidu </a>
+[百度](http://baidu.com)
 # Jonathan
 
 - Bulleted
